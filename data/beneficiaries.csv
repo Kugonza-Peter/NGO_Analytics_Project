@@ -1,0 +1,16 @@
+beneficiary_id,name,gender,age,district,program,amount_received
+B001,John Mugisha,Male,24,Wakiso,Youth Skills,250000
+B002,Mary Namukasa,Female,21,Kampala,Youth Skills,300000
+B003,David Okello,Male,32,Mukono,Agriculture,450000
+B004,Sarah Achieng,Female,28,Wakiso,Agriculture,400000
+B005,Peter Ssenyonjo,Male,35,Mukono,Health,350000
+B006,Grace Nakato,Female,23,Kampala,Health,300000
+B007,James Kato,Male,29,Wakiso,Youth Skills,250000
+B008,Annet Namirembe,Female,26,Mukono,Agriculture,500000
+B009,Robert Ouma,Male,31,Kampala,Health,400000
+B010,Joy Nabbosa,Female,22,Wakiso,Youth Skills,300000
+B011,Isaac Waiswa,Male,27,Mukono,Youth Skills,350000
+B012,Esther Nalubega,Female,30,Kampala,Agriculture,450000
+B013,Michael Ochieng,Male,34,Wakiso,Health,400000
+B014,Rebecca Nansubuga,Female,25,Mukono,Health,350000
+B015,Daniel Tumusiime,Male,29,Kampala,Youth Skills,300000

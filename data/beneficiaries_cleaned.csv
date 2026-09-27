@@ -1,0 +1,501 @@
+beneficiary_id,name,gender,age,district,program,registration_date,attendance_rate,amount_received
+B0001,Isaac Mugisha,Female,33,Kampala,Agriculture,2025-01-13,97,207473
+B0002,Isaac Kato,Female,20,Wakiso,Youth Skills,2025-02-14,63,343962
+B0003,Robert Kato,Male,59,Mbarara,Education,2025-01-14,64,571029
+B0004,Joy Okello,Male,45,Mukono,Health,2025-01-04,59,325772
+B0005,Michael Okello,Male,42,Wakiso,Health,2025-02-22,72,733052
+B0006,Peter Mugisha,Male,42,Wakiso,Health,2025-08-24,90,748564
+B0007,Daniel Okello,Male,22,Wakiso,Agriculture,2025-10-23,99,403445
+B0008,Mary Namukasa,Female,35,Jinja,Health,2025-02-21,60,488162
+B0009,Grace Namukasa,Female,59,Wakiso,Agriculture,2025-12-10,84,864544
+B0010,Sarah Namukasa,Female,35,Mbarara,Agriculture,2025-08-25,93,440035
+B0011,Rebecca Mugisha,Male,38,Jinja,Health,2025-04-28,54,321231
+B0012,Daniel Kato,Male,59,Jinja,Education,2025-06-11,91,581141
+B0013,David Okello,Male,53,Mbarara,Health,2025-03-13,97,712982
+B0014,James Kato,Female,32,Kampala,Education,2025-07-24,55,892495
+B0015,John Mugisha,Male,45,Mbarara,Youth Skills,2025-03-20,74,500156
+B0016,Joy Achieng,Female,53,Wakiso,Youth Skills,2025-09-28,93,663054
+B0017,Michael Okello,Female,25,Mukono,Education,2025-11-25,60,575763
+B0018,John Okello,Male,50,Wakiso,Health,2025-09-14,90,632323
+B0019,Joy Namukasa,Female,28,Mbarara,Youth Skills,2025-03-20,88,439902
+B0020,Annet Mugisha,Female,37,Kampala,Youth Skills,2025-02-27,65,694916
+B0021,Mary Mugisha,Male,52,Kampala,Agriculture,2025-09-06,92,598369
+B0022,Robert Namukasa,Female,31,Mbarara,Agriculture,2025-05-16,95,426858
+B0023,James Okello,Female,25,Kampala,Agriculture,2025-08-13,54,454508
+B0024,John Kato,Male,55,Kampala,Youth Skills,2025-10-11,54,842225
+B0025,Isaac Mugisha,Male,20,Mukono,Youth Skills,2025-04-28,82,349565
+B0026,Peter Achieng,Male,54,Mbarara,Education,2025-04-20,65,922733
+B0027,Annet Achieng,Male,24,Jinja,Health,2025-04-08,77,531071
+B0028,Annet Mugisha,Male,21,Jinja,Health,2025-12-11,56,360735
+B0029,Sarah Namukasa,Female,26,Jinja,Agriculture,2025-10-02,67,585100
+B0030,Sarah Mugisha,Male,21,Mbarara,Youth Skills,2025-08-15,55,890170
+B0031,Rebecca Namukasa,Female,49,Jinja,Agriculture,2025-03-27,75,161483
+B0032,David Achieng,Female,34,Jinja,Health,2025-01-02,77,830429
+B0033,Esther Kato,Female,27,Kampala,Health,2025-12-05,63,161324
+B0034,Joy Kato,Female,21,Wakiso,Education,2025-02-01,82,994141
+B0035,Robert Namukasa,Male,29,Wakiso,Youth Skills,2025-01-30,93,346629
+B0036,James Mugisha,Male,55,Mbarara,Youth Skills,2025-10-19,89,185965
+B0037,James Kato,Female,34,Kampala,Health,2025-10-17,65,378517
+B0038,James Namukasa,Female,47,Mukono,Youth Skills,2025-12-10,50,580547
+B0039,Joy Kato,Male,52,Kampala,Health,2025-02-21,58,465962
+B0040,Daniel Mugisha,Female,36,Kampala,Education,2025-05-06,84,837715
+B0041,Peter Kato,Male,60,Mbarara,Health,2025-12-01,92,208618
+B0042,Daniel Namukasa,Male,24,Mbarara,Agriculture,2025-05-16,67,395442
+B0043,Joy Namukasa,Male,58,Mukono,Education,2025-06-25,66,987204
+B0044,John Mugisha,Female,35,Wakiso,Youth Skills,2025-11-21,71,908577
+B0045,David Okello,Female,53,Jinja,Youth Skills,2025-03-24,57,178898
+B0046,Daniel Namukasa,Male,41,Mbarara,Agriculture,2025-10-07,77,233636
+B0047,John Okello,Male,40,Kampala,Agriculture,2025-07-06,92,207786
+B0048,Grace Kato,Male,33,Kampala,Agriculture,2025-07-28,76,125990
+B0049,David Okello,Male,35,Kampala,Youth Skills,2025-07-30,74,140605
+B0050,Rebecca Achieng,Male,47,Mukono,Health,2025-04-24,100,338651
+B0051,Sarah Mugisha,Male,43,Mukono,Health,2025-12-04,54,910891
+B0052,Peter Okello,Female,52,Mukono,Youth Skills,2025-11-25,57,373903
+B0053,David Kato,Male,24,Mbarara,Education,2025-05-16,72,863934
+B0054,Michael Okello,Male,42,Mbarara,Agriculture,2025-08-12,66,146542
+B0055,Esther Achieng,Male,41,Jinja,Youth Skills,2025-01-01,92,446239
+B0056,Joy Okello,Male,37,Mbarara,Health,2025-12-06,92,528231
+B0057,Grace Achieng,Female,53,Kampala,Agriculture,2025-12-23,76,797229
+B0058,James Namukasa,Female,43,Mbarara,Youth Skills,2025-11-12,69,400850
+B0059,Sarah Achieng,Female,47,Jinja,Education,2025-10-24,93,324082
+B0060,Robert Achieng,Male,36,Mbarara,Health,2025-03-28,55,958179
+B0061,Michael Namukasa,Female,32,Kampala,Agriculture,2025-12-11,51,148458
+B0062,Sarah Achieng,Male,47,Jinja,Agriculture,2025-11-09,95,830180
+B0063,James Achieng,Male,27,Wakiso,Youth Skills,2025-07-24,99,545798
+B0064,Sarah Namukasa,Female,21,Mbarara,Agriculture,2025-12-23,57,578634
+B0065,David Achieng,Female,46,Mbarara,Education,2025-12-08,85,567574
+B0066,Daniel Namukasa,Female,34,Kampala,Health,2025-09-01,99,915451
+B0067,Robert Achieng,Male,35,Jinja,Youth Skills,2025-11-17,95,399607
+B0068,Sarah Okello,Female,52,Wakiso,Agriculture,2025-06-21,59,342495
+B0069,James Namukasa,Male,22,Jinja,Education,2025-12-28,71,668969
+B0070,Annet Achieng,Male,44,Jinja,Youth Skills,2025-02-01,98,703655
+B0071,James Achieng,Female,37,Jinja,Education,2025-01-04,84,883826
+B0072,Esther Kato,Male,49,Kampala,Health,2025-11-05,77,609232
+B0073,John Achieng,Female,28,Jinja,Agriculture,2025-06-22,89,660069
+B0074,John Achieng,Male,23,Jinja,Agriculture,2025-10-31,79,290556
+B0075,John Okello,Female,31,Jinja,Health,2025-07-14,71,898207
+B0076,Daniel Achieng,Female,34,Wakiso,Education,2025-05-23,51,885408
+B0077,Robert Mugisha,Male,59,Wakiso,Youth Skills,2025-06-29,98,132537
+B0078,Sarah Namukasa,Male,33,Kampala,Education,2025-01-11,92,219946
+B0079,Joy Namukasa,Female,41,Kampala,Youth Skills,2025-08-27,99,959099
+B0080,David Okello,Male,37,Mbarara,Education,2025-02-25,75,849747
+B0081,Sarah Mugisha,Male,24,Mukono,Youth Skills,2025-10-31,100,693423
+B0082,Michael Mugisha,Female,60,Mukono,Youth Skills,2025-06-27,82,778998
+B0083,Grace Mugisha,Female,24,Jinja,Health,2025-08-04,90,968962
+B0084,Annet Namukasa,Male,51,Mukono,Education,2025-08-11,79,556732
+B0085,Rebecca Kato,Female,33,Wakiso,Health,2025-05-18,78,355709
+B0086,Michael Achieng,Female,39,Wakiso,Education,2025-10-19,70,290672
+B0087,Annet Namukasa,Female,39,Mukono,Health,2025-07-01,85,110644
+B0088,Robert Namukasa,Male,44,Jinja,Agriculture,2025-02-13,94,599219
+B0089,Isaac Achieng,Male,23,Mukono,Agriculture,2025-08-18,75,825391
+B0090,Sarah Okello,Female,48,Mbarara,Health,2025-12-06,77,882169
+B0091,Robert Okello,Female,35,Mukono,Health,2025-06-30,64,226516
+B0092,Esther Namukasa,Male,52,Kampala,Agriculture,2025-06-11,63,874483
+B0093,Annet Okello,Female,24,Kampala,Health,2025-10-29,64,478411
+B0094,David Okello,Male,35,Wakiso,Youth Skills,2025-01-08,85,406327
+B0095,Esther Namukasa,Female,24,Wakiso,Health,2025-11-23,80,601968
+B0096,Annet Okello,Male,34,Jinja,Youth Skills,2025-04-05,54,520172
+B0097,Annet Mugisha,Male,27,Kampala,Health,2025-10-23,55,360247
+B0098,Mary Kato,Male,51,Jinja,Education,2025-08-02,78,411797
+B0099,Rebecca Kato,Female,54,Mbarara,Youth Skills,2025-08-08,89,876039
+B0100,Mary Namukasa,Male,34,Wakiso,Agriculture,2025-11-17,65,282256
+B0101,Robert Mugisha,Male,44,Jinja,Education,2025-03-22,68,134225
+B0102,Sarah Okello,Female,47,Wakiso,Agriculture,2025-12-28,66,926097
+B0103,Michael Kato,Male,45,Wakiso,Agriculture,2025-12-05,91,256226
+B0104,Daniel Okello,Male,21,Kampala,Health,2025-03-14,88,885339
+B0105,Rebecca Kato,Female,25,Jinja,Health,2025-05-28,94,522060
+B0106,Peter Kato,Female,46,Wakiso,Youth Skills,2025-10-04,77,870214
+B0107,Grace Kato,Male,23,Kampala,Youth Skills,2025-05-09,98,804938
+B0108,Rebecca Okello,Male,29,Jinja,Education,2025-10-23,67,290305
+B0109,Joy Achieng,Female,23,Jinja,Health,2025-11-22,76,449499
+B0110,Grace Mugisha,Female,44,Jinja,Health,2025-03-24,92,519904
+B0111,Rebecca Kato,Female,23,Mukono,Health,2025-01-19,70,221552
+B0112,Michael Achieng,Male,60,Mbarara,Education,2025-09-21,76,156837
+B0113,Sarah Kato,Female,58,Jinja,Youth Skills,2025-07-05,63,380028
+B0114,Robert Namukasa,Female,49,Wakiso,Youth Skills,2025-05-28,90,738448
+B0115,Michael Namukasa,Male,37,Mbarara,Youth Skills,2025-12-30,85,527809
+B0116,Mary Namukasa,Female,25,Kampala,Education,2025-02-28,95,406039
+B0117,Robert Okello,Female,48,Kampala,Education,2025-08-01,85,251668
+B0118,James Namukasa,Male,22,Mukono,Education,2025-11-03,71,925981
+B0119,Robert Okello,Female,37,Mbarara,Education,2025-01-02,59,568238
+B0120,Robert Achieng,Female,53,Mbarara,Education,2025-06-26,79,437408
+B0121,Rebecca Namukasa,Male,54,Jinja,Agriculture,2025-12-24,99,530728
+B0122,John Okello,Female,42,Kampala,Education,2025-08-31,52,232378
+B0123,Robert Kato,Male,46,Wakiso,Education,2025-06-19,50,857537
+B0124,David Achieng,Male,22,Jinja,Health,2025-12-02,71,753534
+B0125,Esther Achieng,Male,39,Mbarara,Education,2025-11-29,70,757246
+B0126,Esther Achieng,Male,57,Wakiso,Agriculture,2025-10-05,90,817644
+B0127,Daniel Okello,Male,45,Wakiso,Youth Skills,2025-04-27,78,274446
+B0128,Esther Okello,Male,38,Wakiso,Health,2025-01-15,72,493049
+B0129,James Namukasa,Female,54,Kampala,Agriculture,2025-05-06,61,182804
+B0130,Joy Achieng,Male,49,Mbarara,Agriculture,2025-11-14,64,583550
+B0131,Isaac Okello,Female,60,Wakiso,Education,2025-08-24,68,810526
+B0132,Robert Namukasa,Female,40,Mbarara,Health,2025-02-07,90,544920
+B0133,Esther Okello,Female,30,Jinja,Education,2025-08-22,56,348728
+B0134,James Kato,Female,36,Wakiso,Education,2025-07-03,67,108491
+B0135,Joy Mugisha,Female,36,Kampala,Health,2025-11-07,64,767542
+B0136,Sarah Kato,Male,58,Wakiso,Youth Skills,2025-05-09,69,926918
+B0137,Annet Mugisha,Female,26,Wakiso,Health,2025-10-24,70,883790
+B0138,James Namukasa,Male,52,Mukono,Health,2025-04-13,60,369452
+B0139,Daniel Achieng,Female,25,Jinja,Youth Skills,2025-06-01,59,890785
+B0140,Sarah Achieng,Female,23,Jinja,Youth Skills,2025-10-13,66,662636
+B0141,Mary Achieng,Female,55,Jinja,Health,2025-07-08,56,807617
+B0142,Sarah Achieng,Female,57,Kampala,Youth Skills,2025-01-13,90,963874
+B0143,Annet Okello,Female,25,Kampala,Youth Skills,2025-11-29,52,419149
+B0144,Annet Mugisha,Male,52,Kampala,Education,2025-02-19,79,489033
+B0145,Isaac Kato,Male,44,Wakiso,Education,2025-08-03,89,527940
+B0146,Peter Mugisha,Female,31,Jinja,Education,2025-12-20,65,997004
+B0147,Grace Mugisha,Female,52,Mukono,Youth Skills,2025-12-18,75,389282
+B0148,Sarah Mugisha,Male,60,Kampala,Youth Skills,2025-08-21,53,925013
+B0149,Grace Namukasa,Male,22,Mbarara,Agriculture,2025-03-06,87,326441
+B0150,Rebecca Namukasa,Male,56,Wakiso,Health,2025-06-18,59,236306
+B0151,Robert Okello,Male,60,Wakiso,Agriculture,2025-03-31,50,475644
+B0152,Michael Namukasa,Female,19,Kampala,Health,2025-10-29,53,232915
+B0153,Esther Achieng,Male,22,Jinja,Education,2025-09-27,99,479625
+B0154,Robert Kato,Female,50,Kampala,Youth Skills,2025-02-25,96,921273
+B0155,Daniel Kato,Female,59,Wakiso,Youth Skills,2025-06-04,80,988456
+B0156,James Achieng,Male,49,Jinja,Youth Skills,2025-12-18,55,437758
+B0157,Joy Namukasa,Male,35,Mbarara,Health,2025-02-03,74,726410
+B0158,Robert Okello,Female,24,Wakiso,Agriculture,2025-08-21,77,573489
+B0159,Daniel Namukasa,Female,47,Jinja,Education,2025-07-31,96,199704
+B0160,Grace Achieng,Female,41,Kampala,Education,2025-06-10,54,195656
+B0161,Rebecca Mugisha,Female,24,Mukono,Agriculture,2025-02-17,85,162894
+B0162,Joy Kato,Female,60,Wakiso,Education,2025-10-15,72,797660
+B0163,Michael Achieng,Female,56,Mukono,Health,2025-01-27,56,705991
+B0164,Robert Namukasa,Female,32,Wakiso,Health,2025-03-21,85,485415
+B0165,Mary Okello,Male,45,Mbarara,Youth Skills,2025-10-21,88,789786
+B0166,Rebecca Okello,Male,35,Mukono,Health,2025-01-15,72,106402
+B0167,David Namukasa,Female,22,Kampala,Youth Skills,2025-10-17,55,882354
+B0168,Robert Namukasa,Female,47,Mukono,Agriculture,2025-07-12,73,426775
+B0169,Esther Okello,Male,21,Kampala,Agriculture,2025-10-18,98,747850
+B0170,John Mugisha,Female,60,Jinja,Education,2025-05-20,88,563516
+B0171,James Okello,Male,40,Jinja,Youth Skills,2025-04-21,68,811163
+B0172,Isaac Kato,Female,20,Kampala,Education,2025-09-07,88,157443
+B0173,John Namukasa,Male,26,Mukono,Health,2025-06-04,70,225812
+B0174,John Achieng,Male,26,Jinja,Agriculture,2025-08-09,82,685864
+B0175,Rebecca Okello,Female,20,Jinja,Youth Skills,2025-02-06,79,181644
+B0176,Rebecca Okello,Female,54,Jinja,Education,2025-10-22,68,220768
+B0177,James Mugisha,Male,57,Jinja,Health,2025-06-16,55,557925
+B0178,Rebecca Mugisha,Female,55,Jinja,Youth Skills,2025-05-05,75,425346
+B0179,Esther Okello,Female,28,Wakiso,Youth Skills,2025-04-24,83,634723
+B0180,Sarah Okello,Male,33,Wakiso,Agriculture,2025-06-29,66,306854
+B0181,David Kato,Male,29,Jinja,Education,2025-03-20,98,691119
+B0182,Michael Kato,Female,58,Mukono,Agriculture,2025-08-18,78,171603
+B0183,Annet Achieng,Female,35,Mbarara,Youth Skills,2025-11-20,72,631981
+B0184,Mary Okello,Female,20,Wakiso,Health,2025-08-25,68,180458
+B0185,Isaac Mugisha,Female,47,Mbarara,Youth Skills,2025-11-11,78,949153
+B0186,Joy Namukasa,Female,50,Kampala,Youth Skills,2025-06-14,78,208529
+B0187,Michael Okello,Male,20,Kampala,Education,2025-02-13,78,649525
+B0188,Robert Kato,Female,41,Mukono,Education,2025-03-23,76,912085
+B0189,Grace Kato,Female,22,Mukono,Youth Skills,2025-01-27,85,811332
+B0190,James Okello,Male,39,Wakiso,Agriculture,2025-05-10,72,425301
+B0191,Isaac Achieng,Male,37,Mbarara,Education,2025-03-08,91,930117
+B0192,Grace Namukasa,Male,59,Jinja,Health,2025-12-10,51,480211
+B0193,Peter Namukasa,Female,49,Kampala,Agriculture,2025-04-20,58,262471
+B0194,Mary Okello,Male,60,Mukono,Agriculture,2025-02-21,88,495019
+B0195,David Namukasa,Male,46,Wakiso,Education,2025-04-03,73,809217
+B0196,Esther Namukasa,Female,46,Kampala,Agriculture,2025-08-16,69,947903
+B0197,Michael Achieng,Female,54,Jinja,Education,2025-04-10,99,395459
+B0198,Michael Achieng,Female,28,Kampala,Agriculture,2025-09-15,66,154714
+B0199,Isaac Achieng,Male,51,Wakiso,Health,2025-07-10,55,900185
+B0200,David Okello,Male,45,Wakiso,Agriculture,2025-08-19,78,466566
+B0201,Daniel Mugisha,Male,43,Mbarara,Health,2025-08-01,65,504924
+B0202,Mary Okello,Male,38,Wakiso,Health,2025-04-25,100,253143
+B0203,David Mugisha,Female,26,Jinja,Education,2025-05-27,89,105506
+B0204,Daniel Mugisha,Female,31,Kampala,Education,2025-01-10,57,913875
+B0205,Peter Namukasa,Male,21,Kampala,Education,2025-06-04,90,932463
+B0206,Joy Achieng,Male,49,Mbarara,Youth Skills,2025-02-02,90,640410
+B0207,Joy Namukasa,Female,45,Wakiso,Health,2025-03-15,65,698384
+B0208,James Namukasa,Male,51,Mukono,Youth Skills,2025-12-07,83,670511
+B0209,Robert Kato,Male,42,Jinja,Youth Skills,2025-10-11,90,505674
+B0210,Grace Okello,Female,22,Mukono,Agriculture,2025-01-09,96,789023
+B0211,Isaac Mugisha,Female,26,Wakiso,Health,2025-10-25,84,454992
+B0212,Rebecca Namukasa,Female,48,Kampala,Agriculture,2025-12-17,54,850827
+B0213,Michael Achieng,Female,30,Wakiso,Agriculture,2025-01-19,52,430926
+B0214,Daniel Okello,Female,52,Jinja,Health,2025-09-21,52,889882
+B0215,Isaac Namukasa,Female,21,Mukono,Health,2025-05-27,57,938171
+B0216,Grace Achieng,Female,42,Mukono,Agriculture,2025-07-24,81,825686
+B0217,Annet Okello,Female,23,Jinja,Youth Skills,2025-09-23,77,731718
+B0218,Rebecca Namukasa,Female,38,Wakiso,Youth Skills,2025-10-07,70,793024
+B0219,Peter Okello,Female,28,Jinja,Health,2025-08-17,78,144412
+B0220,Esther Okello,Female,35,Wakiso,Youth Skills,2025-11-11,92,768480
+B0221,James Okello,Male,19,Kampala,Education,2025-09-20,52,232361
+B0222,Mary Namukasa,Female,41,Jinja,Youth Skills,2025-11-27,88,260891
+B0223,Isaac Achieng,Female,46,Wakiso,Agriculture,2025-07-09,83,484774
+B0224,James Okello,Female,33,Wakiso,Youth Skills,2025-11-29,97,295085
+B0225,Annet Kato,Male,34,Mukono,Education,2025-07-18,63,741599
+B0226,Peter Achieng,Male,26,Wakiso,Education,2025-04-13,61,848022
+B0227,Annet Mugisha,Female,60,Mukono,Youth Skills,2025-12-16,85,668507
+B0228,Peter Okello,Male,41,Mbarara,Agriculture,2025-03-22,57,310743
+B0229,Michael Namukasa,Female,19,Mukono,Health,2025-05-02,79,942700
+B0230,Robert Namukasa,Male,22,Mukono,Education,2025-11-10,95,853789
+B0231,Annet Kato,Female,54,Wakiso,Agriculture,2025-07-30,70,773540
+B0232,Mary Achieng,Female,26,Mbarara,Agriculture,2025-08-27,99,235300
+B0233,James Kato,Male,51,Kampala,Health,2025-01-29,60,269834
+B0234,Grace Namukasa,Female,23,Mukono,Agriculture,2025-06-27,90,677599
+B0235,Peter Namukasa,Female,57,Mbarara,Youth Skills,2025-11-17,82,772124
+B0236,David Kato,Male,28,Mbarara,Health,2025-10-25,86,143195
+B0237,Rebecca Mugisha,Male,59,Mbarara,Health,2025-02-11,91,321048
+B0238,Michael Kato,Male,49,Mbarara,Health,2025-08-02,91,416768
+B0239,Annet Namukasa,Female,37,Jinja,Youth Skills,2025-12-17,94,162823
+B0240,David Achieng,Female,47,Kampala,Health,2025-08-01,88,250647
+B0241,Grace Okello,Female,26,Mukono,Youth Skills,2025-06-26,70,353480
+B0242,Annet Mugisha,Female,33,Kampala,Youth Skills,2025-05-17,53,404309
+B0243,James Kato,Male,28,Mukono,Health,2025-08-03,62,900190
+B0244,David Achieng,Female,49,Mukono,Education,2025-09-21,51,194423
+B0245,James Kato,Male,31,Mbarara,Health,2025-08-23,53,152995
+B0246,Peter Achieng,Female,36,Mbarara,Youth Skills,2025-11-02,56,551860
+B0247,David Okello,Female,41,Wakiso,Education,2025-07-07,53,697983
+B0248,Robert Namukasa,Female,22,Jinja,Education,2025-07-05,98,676566
+B0249,Peter Kato,Male,26,Wakiso,Education,2025-12-15,73,933510
+B0250,Grace Kato,Male,30,Mbarara,Education,2025-07-07,82,142210
+B0251,John Mugisha,Female,48,Mbarara,Education,2025-03-12,59,735710
+B0252,Daniel Kato,Female,57,Mukono,Agriculture,2025-03-13,75,746447
+B0253,Esther Okello,Female,50,Mbarara,Education,2025-10-31,95,690268
+B0254,Peter Achieng,Female,39,Wakiso,Education,2025-01-09,87,422623
+B0255,Michael Mugisha,Female,34,Mbarara,Agriculture,2025-11-02,96,153849
+B0256,Joy Achieng,Female,27,Kampala,Youth Skills,2025-03-29,86,834549
+B0257,Mary Namukasa,Female,38,Jinja,Agriculture,2025-01-10,76,824042
+B0258,Sarah Achieng,Female,21,Kampala,Agriculture,2025-09-14,85,440839
+B0259,Isaac Achieng,Female,38,Kampala,Education,2025-09-27,84,458955
+B0260,Robert Okello,Female,57,Jinja,Agriculture,2025-12-13,65,392559
+B0261,Robert Okello,Female,36,Kampala,Education,2025-04-26,70,603110
+B0262,Grace Kato,Female,25,Mbarara,Education,2025-05-21,75,958130
+B0263,Grace Namukasa,Male,36,Wakiso,Health,2025-05-29,78,787836
+B0264,Peter Achieng,Male,52,Mukono,Health,2025-04-20,58,214532
+B0265,Joy Kato,Male,21,Mbarara,Agriculture,2025-05-03,90,344146
+B0266,John Mugisha,Female,48,Wakiso,Agriculture,2025-07-31,50,677086
+B0267,Daniel Namukasa,Female,48,Kampala,Health,2025-07-28,70,399279
+B0268,Isaac Mugisha,Male,52,Wakiso,Agriculture,2025-02-15,76,978292
+B0269,David Mugisha,Female,29,Mukono,Youth Skills,2025-07-23,50,412886
+B0270,Joy Kato,Female,36,Jinja,Education,2025-02-24,58,992400
+B0271,Robert Achieng,Male,25,Mukono,Agriculture,2025-05-20,96,581206
+B0272,Isaac Okello,Male,39,Mukono,Agriculture,2025-04-06,61,740632
+B0273,Rebecca Achieng,Female,23,Jinja,Youth Skills,2025-08-07,61,247442
+B0274,Annet Okello,Male,34,Jinja,Agriculture,2025-05-08,78,890371
+B0275,Peter Okello,Male,34,Mukono,Agriculture,2025-06-04,53,800224
+B0276,Mary Achieng,Male,43,Mbarara,Health,2025-06-07,94,223119
+B0277,Isaac Okello,Male,32,Kampala,Education,2025-07-08,59,577079
+B0278,Esther Kato,Female,53,Jinja,Agriculture,2025-07-11,98,359486
+B0279,Isaac Kato,Female,51,Mukono,Youth Skills,2025-02-11,86,217659
+B0280,John Kato,Male,54,Mbarara,Agriculture,2025-09-16,60,444056
+B0281,Rebecca Kato,Male,31,Mbarara,Education,2025-08-15,55,635167
+B0282,Annet Mugisha,Male,50,Jinja,Education,2025-08-21,86,160541
+B0283,Robert Achieng,Female,19,Jinja,Health,2025-12-11,50,882032
+B0284,Sarah Kato,Male,45,Mukono,Youth Skills,2025-02-07,84,163182
+B0285,Daniel Mugisha,Male,36,Jinja,Agriculture,2025-08-30,99,242007
+B0286,Michael Achieng,Female,46,Jinja,Education,2025-07-11,55,815894
+B0287,Isaac Kato,Female,25,Kampala,Education,2025-03-10,83,233533
+B0288,Esther Namukasa,Male,37,Jinja,Education,2025-01-02,84,497700
+B0289,Rebecca Namukasa,Female,40,Kampala,Health,2025-05-07,62,860242
+B0290,Michael Mugisha,Female,57,Wakiso,Agriculture,2025-01-17,63,170559
+B0291,Mary Kato,Female,56,Wakiso,Agriculture,2025-01-18,97,146385
+B0292,James Achieng,Male,21,Kampala,Health,2025-04-30,64,955413
+B0293,Daniel Kato,Female,33,Mukono,Agriculture,2025-06-13,92,646571
+B0294,Sarah Achieng,Female,21,Mbarara,Agriculture,2025-06-03,90,811721
+B0295,James Kato,Male,40,Jinja,Health,2025-09-11,94,536548
+B0296,James Namukasa,Female,29,Mbarara,Education,2025-06-03,65,990598
+B0297,Sarah Okello,Male,47,Wakiso,Education,2025-12-29,76,684357
+B0298,Robert Namukasa,Male,34,Kampala,Health,2025-07-18,91,182911
+B0299,Daniel Achieng,Male,52,Kampala,Youth Skills,2025-07-09,67,495489
+B0300,Isaac Kato,Male,22,Kampala,Agriculture,2025-11-05,80,319036
+B0301,Rebecca Okello,Male,31,Kampala,Youth Skills,2025-06-05,97,890973
+B0302,Annet Namukasa,Male,43,Kampala,Health,2025-12-23,99,396809
+B0303,James Achieng,Female,37,Mukono,Health,2025-10-01,82,621433
+B0304,Annet Mugisha,Female,31,Mukono,Health,2025-08-29,76,147936
+B0305,Joy Namukasa,Male,34,Mbarara,Education,2025-03-16,68,259814
+B0306,Sarah Okello,Female,54,Kampala,Education,2025-04-28,85,786406
+B0307,Isaac Okello,Female,59,Jinja,Education,2025-05-12,60,868367
+B0308,Michael Okello,Male,52,Jinja,Agriculture,2025-03-28,84,772985
+B0309,John Kato,Male,60,Wakiso,Youth Skills,2025-01-18,76,244170
+B0310,Rebecca Namukasa,Male,18,Kampala,Education,2025-02-04,73,163386
+B0311,Joy Kato,Female,19,Wakiso,Education,2025-09-05,50,117538
+B0312,Robert Okello,Female,19,Mbarara,Education,2025-10-02,61,212214
+B0313,Daniel Mugisha,Male,33,Kampala,Health,2025-09-26,72,380310
+B0314,Michael Achieng,Female,43,Jinja,Agriculture,2025-02-10,94,336828
+B0315,Peter Mugisha,Male,23,Jinja,Education,2025-12-01,74,679549
+B0316,Annet Mugisha,Male,28,Wakiso,Education,2025-11-23,77,776234
+B0317,Michael Okello,Male,51,Wakiso,Agriculture,2025-10-17,63,825916
+B0318,Daniel Kato,Female,20,Wakiso,Health,2025-09-01,84,690882
+B0319,Isaac Mugisha,Female,19,Kampala,Agriculture,2025-04-02,98,960556
+B0320,Esther Achieng,Female,28,Mbarara,Agriculture,2025-02-09,86,975194
+B0321,Rebecca Achieng,Female,42,Kampala,Youth Skills,2025-12-13,82,881667
+B0322,Grace Mugisha,Female,32,Wakiso,Health,2025-02-20,88,906360
+B0323,Joy Kato,Female,19,Mukono,Education,2025-07-23,81,339220
+B0324,Grace Kato,Female,29,Mbarara,Education,2025-07-12,55,909676
+B0325,Joy Okello,Male,23,Mukono,Agriculture,2025-05-07,74,846247
+B0326,Michael Namukasa,Female,41,Wakiso,Youth Skills,2025-07-19,50,423241
+B0327,Annet Okello,Male,26,Wakiso,Agriculture,2025-05-19,77,570646
+B0328,Robert Kato,Female,24,Wakiso,Youth Skills,2025-09-20,72,681141
+B0329,Mary Kato,Female,42,Wakiso,Health,2025-11-03,76,506637
+B0330,Michael Mugisha,Male,54,Mbarara,Agriculture,2025-10-14,93,499226
+B0331,David Namukasa,Female,35,Jinja,Agriculture,2025-05-18,54,275329
+B0332,James Okello,Female,48,Wakiso,Health,2025-08-04,66,358568
+B0333,Esther Achieng,Male,47,Wakiso,Agriculture,2025-11-01,69,107096
+B0334,James Okello,Female,39,Jinja,Health,2025-11-14,77,955088
+B0335,Rebecca Kato,Female,38,Mbarara,Agriculture,2025-03-11,80,429445
+B0336,David Achieng,Female,58,Jinja,Agriculture,2025-06-13,70,494322
+B0337,Peter Achieng,Male,54,Kampala,Agriculture,2025-07-06,93,904905
+B0338,Robert Mugisha,Male,46,Mukono,Youth Skills,2025-08-25,100,933665
+B0339,James Achieng,Female,33,Mukono,Agriculture,2025-03-13,95,543681
+B0340,Michael Achieng,Female,56,Jinja,Education,2025-02-07,84,631221
+B0341,Daniel Achieng,Male,41,Mbarara,Youth Skills,2025-10-06,56,906306
+B0342,Sarah Okello,Male,54,Jinja,Health,2025-03-27,100,551365
+B0343,Mary Mugisha,Female,32,Mbarara,Agriculture,2025-02-20,78,492292
+B0344,James Achieng,Male,40,Wakiso,Education,2025-12-14,56,409783
+B0345,James Mugisha,Male,40,Mukono,Health,2025-03-01,79,922366
+B0346,Sarah Kato,Female,48,Wakiso,Education,2025-09-05,96,830609
+B0347,Annet Okello,Female,20,Wakiso,Youth Skills,2025-02-04,71,779445
+B0348,Mary Namukasa,Male,53,Kampala,Health,2025-05-05,85,547080
+B0349,Annet Namukasa,Male,29,Jinja,Education,2025-07-27,51,873207
+B0350,Joy Namukasa,Female,42,Wakiso,Agriculture,2025-08-19,63,391865
+B0351,Michael Mugisha,Male,52,Kampala,Health,2025-10-23,70,306647
+B0352,Annet Mugisha,Female,51,Mukono,Education,2025-05-15,89,511612
+B0353,Joy Mugisha,Female,47,Mbarara,Agriculture,2025-06-28,93,840282
+B0354,Michael Okello,Male,26,Mukono,Youth Skills,2025-11-11,65,420214
+B0355,Mary Namukasa,Male,50,Jinja,Education,2025-07-11,88,244564
+B0356,Joy Achieng,Male,49,Mbarara,Agriculture,2025-08-05,85,274971
+B0357,Annet Okello,Male,38,Jinja,Youth Skills,2025-03-13,72,110048
+B0358,Annet Namukasa,Female,53,Mbarara,Education,2025-04-10,76,817956
+B0359,Annet Achieng,Female,49,Kampala,Youth Skills,2025-12-30,86,132359
+B0360,Michael Namukasa,Male,35,Kampala,Health,2025-05-30,60,918665
+B0361,Annet Kato,Male,54,Wakiso,Health,2025-09-11,99,669488
+B0362,Rebecca Okello,Male,46,Mbarara,Agriculture,2025-10-05,77,207391
+B0363,Esther Namukasa,Male,46,Mukono,Health,2025-06-02,55,560398
+B0364,Rebecca Mugisha,Male,55,Mukono,Education,2025-05-02,60,746081
+B0365,David Namukasa,Male,54,Mukono,Health,2025-04-16,88,664939
+B0366,David Okello,Female,36,Mbarara,Health,2025-12-27,82,812296
+B0367,Rebecca Mugisha,Female,21,Mukono,Agriculture,2025-03-11,94,239136
+B0368,Sarah Namukasa,Female,33,Jinja,Education,2025-12-31,59,705474
+B0369,Isaac Okello,Female,42,Jinja,Youth Skills,2025-11-18,90,933197
+B0370,Daniel Mugisha,Female,41,Jinja,Education,2025-07-26,70,710224
+B0371,John Mugisha,Female,22,Mbarara,Education,2025-08-23,63,550513
+B0372,Rebecca Namukasa,Female,38,Mukono,Health,2025-09-11,85,706007
+B0373,David Kato,Female,21,Wakiso,Youth Skills,2025-09-06,90,921967
+B0374,Rebecca Achieng,Male,28,Jinja,Education,2025-01-09,50,548580
+B0375,Sarah Namukasa,Female,28,Mukono,Youth Skills,2025-11-29,91,477943
+B0376,Peter Mugisha,Male,21,Jinja,Health,2025-07-10,96,833417
+B0377,Michael Namukasa,Male,24,Wakiso,Agriculture,2025-08-08,80,181724
+B0378,David Kato,Female,18,Wakiso,Health,2025-04-26,57,542828
+B0379,Esther Namukasa,Male,32,Jinja,Youth Skills,2025-09-02,96,945106
+B0380,Mary Mugisha,Female,37,Kampala,Education,2025-06-10,99,952878
+B0381,Michael Namukasa,Male,22,Mbarara,Youth Skills,2025-11-25,89,781595
+B0382,David Achieng,Male,58,Kampala,Education,2025-06-29,89,819916
+B0383,Annet Namukasa,Male,26,Wakiso,Education,2025-02-14,72,550246
+B0384,Grace Namukasa,Female,59,Wakiso,Agriculture,2025-05-07,85,730193
+B0385,Joy Kato,Male,60,Mukono,Agriculture,2025-05-26,83,736408
+B0386,Robert Namukasa,Female,59,Wakiso,Agriculture,2025-07-20,81,504630
+B0387,Mary Namukasa,Male,51,Wakiso,Health,2025-09-13,70,238394
+B0388,James Kato,Female,52,Kampala,Education,2025-08-04,99,176537
+B0389,John Kato,Male,34,Kampala,Youth Skills,2025-02-04,53,927630
+B0390,James Kato,Female,45,Jinja,Youth Skills,2025-05-27,90,662628
+B0391,Robert Kato,Female,23,Mukono,Youth Skills,2025-03-20,82,313068
+B0392,Michael Namukasa,Female,43,Mbarara,Youth Skills,2025-10-02,69,832614
+B0393,James Namukasa,Male,23,Jinja,Youth Skills,2025-01-30,79,742039
+B0394,Joy Mugisha,Male,25,Wakiso,Agriculture,2025-06-08,94,111901
+B0395,David Achieng,Female,28,Mukono,Agriculture,2025-06-27,97,919067
+B0396,Rebecca Okello,Male,39,Jinja,Health,2025-03-02,83,166974
+B0397,Peter Kato,Male,49,Jinja,Health,2025-11-18,53,623879
+B0398,Rebecca Kato,Female,28,Mukono,Youth Skills,2025-03-27,86,806866
+B0399,Esther Mugisha,Male,20,Wakiso,Agriculture,2025-04-27,52,594681
+B0400,Grace Achieng,Male,20,Mbarara,Education,2025-03-18,64,437433
+B0401,Sarah Achieng,Female,22,Mbarara,Health,2025-06-13,57,626428
+B0402,Isaac Mugisha,Male,51,Wakiso,Education,2025-04-02,54,587686
+B0403,Rebecca Okello,Female,23,Mbarara,Education,2025-06-09,50,486839
+B0404,Sarah Okello,Female,57,Kampala,Education,2025-10-16,73,720432
+B0405,Annet Namukasa,Male,27,Wakiso,Education,2025-10-07,51,344315
+B0406,Robert Okello,Male,39,Wakiso,Education,2025-11-22,97,862540
+B0407,Peter Mugisha,Male,44,Jinja,Youth Skills,2025-04-16,59,846221
+B0408,Peter Mugisha,Male,51,Jinja,Health,2025-01-23,79,884229
+B0409,Mary Kato,Male,58,Jinja,Youth Skills,2025-02-18,87,695403
+B0410,John Achieng,Male,33,Mukono,Health,2025-12-06,70,939717
+B0411,James Okello,Female,35,Kampala,Youth Skills,2025-06-12,62,242723
+B0412,Michael Kato,Male,24,Kampala,Education,2025-02-25,79,429287
+B0413,James Mugisha,Female,31,Jinja,Health,2025-10-02,79,377880
+B0414,Rebecca Mugisha,Male,37,Mbarara,Youth Skills,2025-02-16,63,976530
+B0415,Rebecca Okello,Male,33,Mukono,Education,2025-03-17,82,151328
+B0416,Isaac Okello,Male,19,Jinja,Education,2025-05-14,85,884417
+B0417,Robert Namukasa,Female,24,Kampala,Youth Skills,2025-02-18,50,164664
+B0418,Rebecca Namukasa,Male,43,Mukono,Youth Skills,2025-03-08,87,714590
+B0419,Peter Mugisha,Male,30,Jinja,Agriculture,2025-01-12,55,988432
+B0420,Rebecca Okello,Male,47,Wakiso,Agriculture,2025-03-04,86,554197
+B0421,Rebecca Achieng,Male,42,Jinja,Agriculture,2025-09-12,72,325146
+B0422,Daniel Namukasa,Female,46,Kampala,Youth Skills,2025-05-21,89,749253
+B0423,Joy Namukasa,Female,49,Jinja,Education,2025-11-28,53,191982
+B0424,Peter Achieng,Female,30,Mbarara,Agriculture,2025-03-12,90,941134
+B0425,Robert Mugisha,Female,48,Mbarara,Education,2025-07-15,72,693128
+B0426,Robert Okello,Female,29,Wakiso,Health,2025-07-18,88,329659
+B0427,John Okello,Female,51,Mukono,Agriculture,2025-01-30,60,204998
+B0428,Sarah Namukasa,Male,32,Mbarara,Education,2025-05-17,72,979988
+B0429,Rebecca Namukasa,Male,55,Mukono,Health,2025-04-01,87,129576
+B0430,Esther Okello,Male,54,Kampala,Education,2025-10-18,84,424065
+B0431,David Achieng,Male,21,Kampala,Agriculture,2025-01-20,51,652021
+B0432,Annet Mugisha,Male,26,Mukono,Agriculture,2025-06-19,70,162448
+B0433,John Namukasa,Male,25,Mbarara,Health,2025-10-28,54,491738
+B0434,Esther Achieng,Male,39,Mukono,Health,2025-10-28,58,265154
+B0435,Esther Achieng,Female,59,Mukono,Agriculture,2025-11-24,95,689275
+B0436,Esther Kato,Male,60,Mbarara,Agriculture,2025-07-02,74,421727
+B0437,Esther Okello,Male,18,Mbarara,Education,2025-03-07,99,695048
+B0438,John Namukasa,Female,57,Kampala,Youth Skills,2025-11-05,81,247475
+B0439,Grace Mugisha,Female,38,Kampala,Youth Skills,2025-05-02,95,802571
+B0440,Isaac Okello,Male,34,Kampala,Agriculture,2025-08-17,94,171087
+B0441,Grace Okello,Male,21,Jinja,Education,2025-02-25,96,540038
+B0442,David Achieng,Female,40,Mbarara,Education,2025-09-10,56,969067
+B0443,Annet Kato,Male,28,Jinja,Youth Skills,2025-11-30,52,409234
+B0444,John Okello,Male,22,Mukono,Agriculture,2025-05-14,74,268720
+B0445,Esther Mugisha,Male,39,Mbarara,Education,2025-10-08,95,132498
+B0446,James Namukasa,Female,28,Wakiso,Youth Skills,2025-11-07,71,315535
+B0447,Sarah Achieng,Female,60,Mukono,Health,2025-12-23,65,200575
+B0448,John Achieng,Female,27,Wakiso,Health,2025-10-20,50,548377
+B0449,Mary Okello,Female,30,Wakiso,Youth Skills,2025-12-05,63,279130
+B0450,Isaac Okello,Female,25,Mukono,Education,2025-02-11,80,612855
+B0451,Daniel Okello,Female,29,Mukono,Education,2025-02-16,73,295646
+B0452,Annet Mugisha,Female,47,Mukono,Agriculture,2025-05-15,67,691655
+B0453,John Namukasa,Male,23,Mukono,Education,2025-12-23,98,718372
+B0454,Sarah Kato,Female,51,Jinja,Education,2025-02-01,86,347088
+B0455,Annet Okello,Female,20,Mbarara,Agriculture,2025-02-10,57,893969
+B0456,Annet Namukasa,Male,30,Kampala,Youth Skills,2025-03-27,77,182175
+B0457,Isaac Achieng,Male,56,Mukono,Health,2025-04-14,96,946561
+B0458,Mary Mugisha,Female,53,Mukono,Health,2025-07-18,83,580412
+B0459,Daniel Mugisha,Female,25,Jinja,Agriculture,2025-12-25,59,694116
+B0460,Joy Kato,Male,54,Wakiso,Health,2025-02-21,84,460572
+B0461,Daniel Achieng,Female,59,Jinja,Education,2025-05-16,52,280564
+B0462,Peter Achieng,Female,20,Jinja,Health,2025-03-15,94,349119
+B0463,John Achieng,Female,19,Mukono,Health,2025-05-18,69,393964
+B0464,Rebecca Achieng,Male,32,Kampala,Health,2025-12-23,97,564635
+B0465,Michael Okello,Female,56,Wakiso,Agriculture,2025-05-18,78,321659
+B0466,Daniel Achieng,Female,21,Mbarara,Agriculture,2025-09-06,54,426236
+B0467,Esther Kato,Male,51,Mbarara,Youth Skills,2025-07-26,61,302127
+B0468,Daniel Namukasa,Male,20,Jinja,Youth Skills,2025-01-30,73,838862
+B0469,Sarah Okello,Female,50,Jinja,Youth Skills,2025-07-08,93,132047
+B0470,Sarah Okello,Female,29,Jinja,Health,2025-09-08,72,271456
+B0471,Rebecca Okello,Male,36,Wakiso,Education,2025-12-19,53,270820
+B0472,Rebecca Kato,Male,59,Kampala,Agriculture,2025-04-20,67,783238
+B0473,James Kato,Male,48,Kampala,Agriculture,2025-01-11,88,939767
+B0474,John Namukasa,Female,59,Mukono,Education,2025-05-10,74,992952
+B0475,Grace Achieng,Male,47,Mukono,Education,2025-05-10,87,207282
+B0476,John Kato,Female,53,Mbarara,Health,2025-12-06,69,817659
+B0477,Mary Achieng,Female,35,Mukono,Health,2025-02-02,66,787991
+B0478,Esther Okello,Male,51,Kampala,Youth Skills,2025-04-07,88,523727
+B0479,Isaac Okello,Male,19,Jinja,Health,2025-12-15,66,538897
+B0480,James Achieng,Male,39,Kampala,Education,2025-01-19,92,475911
+B0481,Robert Okello,Male,36,Wakiso,Education,2025-03-29,58,876909
+B0482,Peter Kato,Female,59,Wakiso,Agriculture,2025-04-04,72,334176
+B0483,Esther Okello,Female,41,Mukono,Health,2025-08-04,79,992562
+B0484,Mary Achieng,Male,48,Kampala,Youth Skills,2025-01-28,93,500209
+B0485,Robert Okello,Male,27,Kampala,Agriculture,2025-07-31,71,529068
+B0486,Joy Achieng,Female,29,Wakiso,Education,2025-03-15,71,761685
+B0487,David Okello,Male,18,Jinja,Health,2025-11-21,63,898169
+B0488,Michael Namukasa,Male,49,Wakiso,Agriculture,2025-10-23,89,554779
+B0489,Isaac Achieng,Female,48,Jinja,Youth Skills,2025-07-26,52,659711
+B0490,Sarah Okello,Female,51,Kampala,Youth Skills,2025-01-08,93,104324
+B0491,Isaac Namukasa,Female,37,Kampala,Youth Skills,2025-04-26,74,627786
+B0492,Joy Okello,Male,20,Mukono,Health,2025-03-27,79,863187
+B0493,Robert Kato,Female,45,Kampala,Health,2025-09-26,81,476701
+B0494,Michael Namukasa,Female,19,Kampala,Agriculture,2025-03-26,96,237579
+B0495,Sarah Mugisha,Male,25,Mukono,Youth Skills,2025-10-29,74,771425
+B0496,Peter Kato,Male,56,Wakiso,Youth Skills,2025-11-16,91,976735
+B0497,John Mugisha,Male,44,Jinja,Education,2025-12-20,57,673867
+B0498,Peter Achieng,Male,31,Wakiso,Health,2025-12-26,76,793805
+B0499,Mary Kato,Male,44,Wakiso,Youth Skills,2025-05-19,68,219550
+B0500,Michael Mugisha,Male,56,Kampala,Health,2025-09-12,83,311469
