@@ -80,3 +80,6 @@ Python was used to:
 - Generate data visualizations
 
 The generated charts are stored in the `reports/` folder.
+## Dashboard Preview
+
+![NGO Program Monitoring Dashboard](reports/dashboard_screenshot.png.PNG)
